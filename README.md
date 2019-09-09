@@ -10,7 +10,7 @@ Todo android app
 
 Submitted by: **Biraj Silwal**
 
-Time spent: **8** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
